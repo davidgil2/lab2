@@ -10,6 +10,8 @@ Implementation of a Simple App with the next operations:
 
 * health check
 
+* prueba
+
  
 
 Including integration with GitHub Actions, Sonarqube (SonarCloud), Coveralls and Snyk
